@@ -8,6 +8,8 @@ public class ConfigserverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigserverApplication.class, args);
-		//Test
+		//Test v cfv
+		//asdasdad
+		System.out.println("");
 	}
 }
